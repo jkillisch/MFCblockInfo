@@ -1,6 +1,6 @@
 #' Trace of information matrix
 #'
-#' calculates the traits (= sum of diagonal elements) of the information matrix
+#' calculates the trace (= sum of diagonal elements) of the information matrix
 #'
 #' @param infos block information as returned from calc.info.block()
 #' @param avg logical, average result across persons? defaults to FALSE
